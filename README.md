@@ -1,10 +1,10 @@
 ### Hi besties 👋🏻
 
+[![MasterHead](./banner.png)](https://github.com/Tinka8)
+
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tinka8&layout=compact&theme=dark)](https://github.com/Tinka8/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tinka8&layout=compact&theme=dark)](https://github.com/Tinka8/github-readme-stats)
-
-<img align="center" alt="Coding" width="full" src="./banner.png">
 
 ![snake svg](https://github.com/Tinka8/Tinka8/blob/output/github-contribution-grid-snake.svg)
 
