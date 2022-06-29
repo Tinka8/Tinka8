@@ -1,6 +1,8 @@
 ### Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tinka8&layout=compact&theme=dark)](https://github.com/Tinka8/github-readme-stats)
 
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+
 <!--
 **Tinka8/Tinka8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
