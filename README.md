@@ -1,7 +1,11 @@
 ### Hi there 👋
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tinka8&show_icons=true&theme=dark)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tinka8&layout=compact&theme=dark)](https://github.com/Tinka8/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tinka8&layout=compact&theme=dark)](https://github.com/Tinka8/github-readme-stats)
+
 
 
 
