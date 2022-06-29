@@ -3,6 +3,11 @@
 
 ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
+- name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v2.0.0-rc.2
+
+
+
 <!--
 **Tinka8/Tinka8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
