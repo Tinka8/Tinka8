@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi besties 👋
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tinka8&layout=compact&theme=dark)](https://github.com/Tinka8/github-readme-stats)
 
