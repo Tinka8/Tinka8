@@ -3,7 +3,7 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Tinka8/Tinka8/output/github-contribution-grid-snake.svg.svg"
+    srcset="https://raw.githubusercontent.com/Tinka8/Tinka8/output/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
@@ -11,7 +11,7 @@
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/Tinka/Tinka8/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/Tinka8/Tinka8/output/github-contribution-grid-snake.svg"
   />
 </picture>
 
