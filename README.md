@@ -1,8 +1,8 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tinka8&layout=compact&theme=dark)](https://github.com/Tinka8/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tinka8&layout=compact&theme=dark)](https://github.com/Tinka8/github-readme-stats)
 
-![github-contribution-grid-snake](https://github.com/Tinka8/Tinka8/blob/output/github-contribution-grid-snake-dark.svg)
+![github-contribution-grid-snake](https://github.com/Tinka8/Tinka8/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark.svg)
 
-
+>
 
 <!--
 **Tinka8/Tinka8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
