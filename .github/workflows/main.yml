@@ -25,7 +25,12 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Tinka8
-          outputs: |
+            outputs:
+              required: false
+              default: null
+              description: |
+                - palette:   [github, github-dark]
+
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
         env:
